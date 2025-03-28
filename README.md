@@ -3,7 +3,7 @@
 # CSC-790-Assignment
 
 This repository contains the implementation for **Assignment 1** of the **CSC-790** course (AI for Health).  
-The project focuses on predicting **Severe Maternal Morbidity (SMM)** using machine learning models, addressing issues like class imbalance and model interpretability.
+The project focuses on predicting **Severe Maternal Morbidity (SMM)** using machine learning and Deep learning models, addressing issues like class imbalance and model interpretability.
 
 ## Description of the work
 
@@ -12,6 +12,7 @@ For Ml and Dl models
 - Feature selection using statistical tests
 - Handling extreme class imbalance
 - Model training (Logistic Regression, Random Forest)
+- Model training (ANN, ResNet)
 - Evaluation using metrics like **precision**, **recall**, **F1-score**, and **confusion matrices**
 - Hyperparameter tuning
 
