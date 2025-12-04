@@ -1,6 +1,8 @@
 
 
-# CSC-790- AI for Health
+# Course Title: CSC-790: AI for Health
+# MidProject 1
+
 
 This repository contains the implementation for **Assignment 1** of the **CSC-790** course (AI for Health).  
 The project focuses on predicting **Severe Maternal Morbidity (SMM)** using machine learning and Deep learning models, addressing issues like class imbalance and model interpretability.
